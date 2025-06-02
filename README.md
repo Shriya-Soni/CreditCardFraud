@@ -52,4 +52,4 @@ The model demonstrated satisfactory performance, effectively distinguishing betw
 This project highlights the importance of data preprocessing in dealing with imbalanced datasets. The custom Random Forest classifier performed well on the balanced subsample, providing accurate predictions for both classes. Future work could involve further optimizing the model and getting high accuracy afetr applying it to the original imbalanced dataset.
 
 # Acknowledgements
-This project was inspired by the need to address class imbalance in fraud detection. The dataset used is available from Kaggle.
+This project was inspired by the need to address class imbalance in fraud detection. The dataset used is available from Kaggle (/kaggle/input/creditcardfraud/creditcard.csv)
